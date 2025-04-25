@@ -1,7 +1,7 @@
 # 🏥US Healthcare Analysis Dashboard
 
 **Role:** Data Analyst  
-**Tool Used:** Power BI  
+**Tool Used:** Power BI, Excel  
 **Dataset:** 55,500 Patient Records | 10 Major U.S. Hospitals  
 **Focus:** Uncover insights to drive better healthcare decisions, optimize costs, and improve patient outcomes.
 **Challenge:** Onyx Data DNA April 2025 Challenge
